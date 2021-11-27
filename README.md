@@ -11,7 +11,7 @@ Markdown provides several syntaxes for emphasizing your text:
 * `_Single underscores_` get converted into `<em>` tags
 * `__Double underscores__` get converted into `<strong>` tags
 
-This syntax is redundant, and [sometimes you really do want to use `<b>` and `<i>` tags](https://www.w3.org/International/questions/qa-b-and-i-tags) instead of `<strong>` and `<em>`. Alternatively, maybe you'd like to use some of this syntax for other tags such as `<mark>`!
+This syntax is redundant, and sometimes **(once in a blue moon)** [you really do want to use `<b>` and `<i>` tags](https://www.w3.org/International/questions/qa-b-and-i-tags) instead of `<strong>` and `<em>`. Alternatively, maybe you'd like to use some of this syntax for other tags such as `<mark>`!
 
 **This plugin lets you configure which tag your Eleventy project's `markdown-it` Markdown parser uses for text surrounded by single asterisks, double asterisks, single underscores, and double underscores.**
 
