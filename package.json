@@ -1,6 +1,6 @@
 {
 	"name": "eleventy-plugin-emphasis",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "An Eleventy plugin for your Markdown syntax which puts you in control of your emphasis markup.",
 	"main": ".eleventy.js",
 	"keywords": [
