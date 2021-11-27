@@ -9,7 +9,7 @@
 	},
 	"keywords": [],
 	"author": "Ben Myers <ben@benmyers.dev>",
-	"license": "ISC",
+	"license": "MIT",
 	"dependencies": {
 		"@11ty/eleventy": "^0.12.1",
 		"markdown-it": "^12.2.0"
