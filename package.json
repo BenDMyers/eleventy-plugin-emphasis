@@ -10,6 +10,9 @@
 		"markdown-it"
 	],
 	"author": "Ben Myers <ben@benmyers.dev>",
+	"homepage": "https://github.com/BenDMyers/eleventy-plugin-emphasis#readme",
+	"repository": "github:BenDMyers/eleventy-plugin-emphasis",
+	"bugs": "https://github.com/BenDMyers/eleventy-plugin-emphasis/issues",
 	"license": "MIT",
 	"dependencies": {
 		"markdown-it": "^12.2.0"
